@@ -279,8 +279,8 @@ namespace SG
                 {
                     wristPos = this.wristTrackingObj.position;
                     wristRot = this.wristTrackingObj.rotation * Quaternion.Euler(0, -90, 0); // y축 회전 보정
-                    Debug.Log("wristTrackingObj Position: " + wristPos);
-                    Debug.Log("wristTrackingObj Rotation: " + wristRot);
+                    // Debug.Log("wristTrackingObj Position: " + wristPos);
+                    // Debug.Log("wristTrackingObj Rotation: " + wristRot);
                 }
                 else
                 {

@@ -85,7 +85,7 @@ namespace SG
         /// <summary> (Local) start rotation of the BaseTransform. Logged at start. </summary>
         protected Quaternion baseStartRotation;
 
-
+        private int grabCount = 0;
 
 
         //-----------------------------------------------------------------------------------------------------------------------------------
@@ -287,6 +287,8 @@ namespace SG
             bool imGrabbed = base.StartGrab(grabScript, out grabArgs);
             if (imGrabbed)
             {
+                grabCount++; // Increment the grab count
+                Debug.Log("Object grabbed " + grabCount + " times."); // Debug log
                 UpdateLastGrabLocation();
                 //Update Physics Behaviour when grabbed for the first time
                 SG_HandPhysics handPhysics = grabScript.HandPhysics;

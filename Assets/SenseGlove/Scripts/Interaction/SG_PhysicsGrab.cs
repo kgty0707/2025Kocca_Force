@@ -53,6 +53,8 @@ namespace SG
             hoverScripts[3] = palmTouch;
         }
 
+        private int grabCount = 0;
+
         protected override void CollectDebugComponents(out List<GameObject> objects, out List<MeshRenderer> renderers)
         {
             base.CollectDebugComponents(out objects, out renderers);
@@ -181,8 +183,6 @@ namespace SG
 
 
 
-
-
         public static bool[] GetGrabIntent(float[] normalizedFlex)
         {
             bool[] res = new bool[5];
@@ -225,13 +225,6 @@ namespace SG
                     TryGrab(grabablesInHover[i]);
                     if (!CanGrabNewObjects) { break; } //stop going through the objects if we can no longer grab one
                 }
-            }
-            if (this.IsGrabbing) //we managed to grab something.
-            {
-                Debug.Log($"[SG_PhysicsGrab] {this.name} - EvaluateGrab() 완료. 손이 현재 {this.heldObjects.Count}개의 오브젝트를 잡고 있음.");
-                this.grabRelevance = new bool[0]; //clear this so we re-register it the first frame
-                snapFrame = false; //we don't check for collision the first frame after grabbing.
-                //Debug.Log(Time.timeSinceLevelLoad + ": " + (this.handPoseProvider.TracksRightHand() ? "Right Hand" : "Left Hand") + " Grabbed Object(s)");
             }
         }
 
@@ -337,12 +330,7 @@ namespace SG
             }
         }
 
-        
-
-
-
-
-
+    
         public override void UpdateGrabLogic(float dT)
         {
             base.UpdateGrabLogic(dT);  //updates reference location(s).
@@ -374,11 +362,7 @@ namespace SG
             {
                 EvaluateGrab();
             }
-
-            
-
         }
-
 
     }
 }

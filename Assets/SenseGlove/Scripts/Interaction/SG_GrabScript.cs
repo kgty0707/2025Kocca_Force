@@ -64,7 +64,7 @@ namespace SG
         /// <summary> When linked to a TrackedHand, siad script detemines exactly when an update occurs. When unlinked, this script updates itself. </summary>
         protected bool updateSelf = true;
 
-        /// <summary> Use the location of this Transform to determine which object is closest to the hand. </summary>
+        /// <summary> Use the location of this Transform to determine which object is closest base grabto the hand. </summary>
         protected Transform proximitySensor = null;
 
         /// <summary> The last object that was determined to be closest to this script. Used to unHighlight it. </summary>
@@ -468,7 +468,7 @@ namespace SG
 					if (grabbed)
 					{
 						heldObjects.Add(grabable);
-                        //Debug.Log(this.name + " Grabbed " + grabable.name);
+                        Debug.Log(this.name + " Grabbed " + grabable.name);
                         this.GrabbedObject.Invoke(grabable, this);
 						UpdateDebugger();
 						return true;
