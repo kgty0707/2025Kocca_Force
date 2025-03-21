@@ -86,6 +86,8 @@ namespace SG
         protected Quaternion baseStartRotation;
 
         private int grabCount = 0;
+        private static int totalGrabCount = 0; // Static variable to track total grabs
+
 
 
         //-----------------------------------------------------------------------------------------------------------------------------------
@@ -288,7 +290,9 @@ namespace SG
             if (imGrabbed)
             {
                 grabCount++; // Increment the grab count
+                totalGrabCount++; // Increment the total grab count
                 Debug.Log("Object grabbed " + grabCount + " times."); // Debug log
+                Debug.Log("Total objects grabbed " + totalGrabCount + " times.");
                 UpdateLastGrabLocation();
                 //Update Physics Behaviour when grabbed for the first time
                 SG_HandPhysics handPhysics = grabScript.HandPhysics;
