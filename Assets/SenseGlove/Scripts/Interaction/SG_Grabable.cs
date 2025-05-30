@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO;
 
 namespace SG
 {
@@ -24,7 +25,17 @@ namespace SG
             /// <summary> Treat the two refrences as pivots. </summary>
             PivotPoints
         }
+        private static string logFileName = "grab_log.csv"; // 기본값
 
+        public static void SetLogFileName(string fileName)
+        {
+            logFileName = fileName;
+        }
+
+        public static string GetLogFileName()
+        {
+            return logFileName;
+        }
 
         //-----------------------------------------------------------------------------------------------------------------------------------
         // Member Variables
@@ -284,6 +295,17 @@ namespace SG
         /// <param name="grabScript"></param>
         /// <param name="grabArgs"></param>
         /// <returns></returns>
+        /// 
+        public void ResetGrabCount()
+        {
+            this.grabCount = 0;
+        }
+
+        public static void ResetTotalGrabCount()
+        {
+            totalGrabCount = 0;
+        }
+
         protected override bool StartGrab(SG_GrabScript grabScript, out GrabArguments grabArgs)
         {
             bool imGrabbed = base.StartGrab(grabScript, out grabArgs);
@@ -291,8 +313,33 @@ namespace SG
             {
                 grabCount++; // Increment the grab count
                 totalGrabCount++; // Increment the total grab count
-                Debug.Log("Object grabbed " + grabCount + " times."); // Debug log
-                Debug.Log("Total objects grabbed " + totalGrabCount + " times.");
+                string logMessage = $"Object {this.name} grabbed {grabCount} times.";
+                string totalLogMessage = $"Total objects grabbed {totalGrabCount} times.";
+                // Debug.Log(logMessage); // Debug log with object name
+                // Debug.Log(totalLogMessage);
+
+                string folderPath = Path.Combine(Application.dataPath, "Grablog");
+                Directory.CreateDirectory(folderPath); // 폴더 없으면 생성
+                string filePath = Path.Combine(folderPath, GetLogFileName());
+
+                SG_Material mat = this.GetComponent<SG_Material>();
+                float forceLevel = -1f; // 기본값
+
+                string groupName = SphereSequenceController.currentGroupName;
+
+
+                if (mat != null && mat.materialProperties != null)
+                {
+                    forceLevel = mat.materialProperties.maxForce;
+                }
+
+
+                using (StreamWriter writer = new StreamWriter(filePath, true))
+                {
+                    writer.WriteLine($"{System.DateTime.Now},{this.name},{grabCount},{totalGrabCount},{forceLevel},{groupName}");
+                }
+                Debug.Log($"Log saved to {filePath}"); // Log message indicating the file path
+
                 UpdateLastGrabLocation();
                 //Update Physics Behaviour when grabbed for the first time
                 SG_HandPhysics handPhysics = grabScript.HandPhysics;
@@ -308,11 +355,10 @@ namespace SG
                     }
                     else
                     {
-                       // Debug.Log("No PhysicsBody: Ignore Collision with Grabable");
+                        // Debug.Log("No PhysicsBody: Ignore Collision with Grabable");
                         handPhysics.SetIgnoreCollision(this.GetPhysicsColliders(), true); // Just ignore the collision between this object's colliders and that of the hand.
                     }
                 }
-
             }
 
             if (imGrabbed && this.grabbedBy.Count == 0) // I'm not yet grabbed by a GrabScript, and this new one was succesfull
@@ -326,7 +372,6 @@ namespace SG
             }
             return true;
         }
-
 
         /// <summary> Fired after we determined we're gonna release, but before we remove the GrabArguments form the list. If this is the last one, return the PhyscisBody back </summary>
         /// <param name="grabbedScript"></param>

@@ -1,0 +1,51 @@
+﻿zone,ObjectName,Timestamp,SourceFile,session
+0,Fur ball,2025-04-16 19:22:44,20250416_192314_youngtaek_zone_log.csv,1
+1,Steal ball,2025-04-16 19:22:49,20250416_192314_youngtaek_zone_log.csv,1
+4,BaseBall,2025-04-16 19:23:00,20250416_192314_youngtaek_zone_log.csv,1
+3,Sponge ball,2025-04-16 19:23:03,20250416_192314_youngtaek_zone_log.csv,1
+2,bouncy ball,2025-04-16 19:23:05,20250416_192314_youngtaek_zone_log.csv,1
+0,0,2025-04-16 19:23:25,20250416_192502_youngtaek_zone_log.csv,2
+4,30,2025-04-16 19:24:02,20250416_192502_youngtaek_zone_log.csv,2
+1,10,2025-04-16 19:24:42,20250416_192502_youngtaek_zone_log.csv,2
+3,50,2025-04-16 19:24:53,20250416_192502_youngtaek_zone_log.csv,2
+2,100,2025-04-16 19:24:55,20250416_192502_youngtaek_zone_log.csv,2
+1,Sponge ball,2025-04-16 19:25:42,20250416_192603_youngtaek_zone_log.csv,3
+0,Fur ball,2025-04-16 19:25:44,20250416_192603_youngtaek_zone_log.csv,3
+4,BaseBall,2025-04-16 19:25:47,20250416_192603_youngtaek_zone_log.csv,3
+3,Steal ball,2025-04-16 19:25:56,20250416_192603_youngtaek_zone_log.csv,3
+2,bouncy ball,2025-04-16 19:25:57,20250416_192603_youngtaek_zone_log.csv,3
+0,0,2025-04-16 19:27:21,20250416_192740_youngtaek_zone_log.csv,4
+2,30,2025-04-16 19:27:23,20250416_192740_youngtaek_zone_log.csv,4
+1,10,2025-04-16 19:27:25,20250416_192740_youngtaek_zone_log.csv,4
+4,50,2025-04-16 19:27:30,20250416_192740_youngtaek_zone_log.csv,4
+3,100,2025-04-16 19:27:32,20250416_192740_youngtaek_zone_log.csv,4
+1,10,2025-04-16 19:27:58,20250416_192818_youngtaek_zone_log.csv,5
+0,0,2025-04-16 19:28:01,20250416_192818_youngtaek_zone_log.csv,5
+4,30,2025-04-16 19:28:08,20250416_192818_youngtaek_zone_log.csv,5
+3,50,2025-04-16 19:28:10,20250416_192818_youngtaek_zone_log.csv,5
+2,100,2025-04-16 19:28:14,20250416_192818_youngtaek_zone_log.csv,5
+0,0,2025-04-16 19:28:51,20250416_192926_youngtaek_zone_log.csv,6
+2,50,2025-04-16 19:29:09,20250416_192926_youngtaek_zone_log.csv,6
+3,100,2025-04-16 19:29:14,20250416_192926_youngtaek_zone_log.csv,6
+4,30,2025-04-16 19:29:15,20250416_192926_youngtaek_zone_log.csv,6
+1,10,2025-04-16 19:29:18,20250416_192926_youngtaek_zone_log.csv,6
+0,Fur ball,2025-04-16 19:29:42,20250416_193008_youngtaek_zone_log.csv,7
+1,Sponge ball,2025-04-16 19:29:44,20250416_193008_youngtaek_zone_log.csv,7
+2,bouncy ball,2025-04-16 19:29:46,20250416_193008_youngtaek_zone_log.csv,7
+3,BaseBall,2025-04-16 19:29:51,20250416_193008_youngtaek_zone_log.csv,7
+4,Steal ball,2025-04-16 19:29:56,20250416_193008_youngtaek_zone_log.csv,7
+1,Sponge ball,2025-04-16 19:30:14,20250416_193114_youngtaek_zone_log.csv,8
+0,Fur ball,2025-04-16 19:30:22,20250416_193114_youngtaek_zone_log.csv,8
+2,bouncy ball,2025-04-16 19:30:50,20250416_193114_youngtaek_zone_log.csv,8
+4,BaseBall,2025-04-16 19:30:57,20250416_193114_youngtaek_zone_log.csv,8
+3,Steal ball,2025-04-16 19:30:59,20250416_193114_youngtaek_zone_log.csv,8
+0,0,2025-04-16 19:31:28,20250416_193229_youngtaek_zone_log.csv,9
+1,10,2025-04-16 19:31:52,20250416_193229_youngtaek_zone_log.csv,9
+4,50,2025-04-16 19:32:09,20250416_193229_youngtaek_zone_log.csv,9
+2,100,2025-04-16 19:32:24,20250416_193229_youngtaek_zone_log.csv,9
+3,30,2025-04-16 19:32:26,20250416_193229_youngtaek_zone_log.csv,9
+0,Fur ball,2025-04-16 19:32:38,20250416_193347_youngtaek_zone_log.csv,10
+1,bouncy ball,2025-04-16 19:32:57,20250416_193347_youngtaek_zone_log.csv,10
+4,Steal ball,2025-04-16 19:33:34,20250416_193347_youngtaek_zone_log.csv,10
+3,BaseBall,2025-04-16 19:33:35,20250416_193347_youngtaek_zone_log.csv,10
+2,Sponge ball,2025-04-16 19:33:37,20250416_193347_youngtaek_zone_log.csv,10

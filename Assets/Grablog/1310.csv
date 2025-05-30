@@ -1,0 +1,491 @@
+2025-05-27 오전 9:25:08,Sponge ball,1,1,0,Confusion
+2025-05-27 오전 9:25:11,bouncy ball,1,2,0.1,Confusion
+2025-05-27 오전 9:25:16,Fur ball,1,3,1,Confusion
+2025-05-27 오전 9:25:22,Steal ball,1,4,0.5,Confusion
+2025-05-27 오전 9:25:27,BaseBall,1,5,0.3,Confusion
+2025-05-27 오전 9:25:27,BaseBall,2,6,0.3,Confusion
+2025-05-27 오전 9:25:28,BaseBall,3,7,0.3,Confusion
+2025-05-27 오전 9:25:28,BaseBall,4,8,0.3,Confusion
+2025-05-27 오전 9:25:28,BaseBall,5,9,0.3,Confusion
+2025-05-27 오전 9:25:29,BaseBall,6,10,0.3,Confusion
+2025-05-27 오전 9:25:29,BaseBall,7,11,0.3,Confusion
+2025-05-27 오전 9:25:29,BaseBall,8,12,0.3,Confusion
+2025-05-27 오전 9:25:30,BaseBall,9,13,0.3,Confusion
+2025-05-27 오전 9:25:33,BaseBall,10,14,0.3,Confusion
+2025-05-27 오전 9:25:33,BaseBall,11,15,0.3,Confusion
+2025-05-27 오전 9:25:33,BaseBall,12,16,0.3,Confusion
+2025-05-27 오전 9:25:43,BaseBall,13,17,0.3,Confusion
+2025-05-27 오전 9:25:45,Fur ball,2,18,1,Confusion
+2025-05-27 오전 9:25:46,Fur ball,3,19,1,Confusion
+2025-05-27 오전 9:25:49,Sponge ball,2,20,0,Confusion
+2025-05-27 오전 9:25:51,Steal ball,2,21,0.5,Confusion
+2025-05-27 오전 9:25:54,bouncy ball,2,22,0.1,Confusion
+2025-05-27 오전 9:27:07,10,1,1,0.1,NoMaterial
+2025-05-27 오전 9:27:12,30,1,2,0.3,NoMaterial
+2025-05-27 오전 9:27:14,0,1,3,0,NoMaterial
+2025-05-27 오전 9:27:18,100,1,4,1,NoMaterial
+2025-05-27 오전 9:27:22,50,1,5,0.5,NoMaterial
+2025-05-27 오전 9:27:23,10,2,6,0.1,NoMaterial
+2025-05-27 오전 9:27:25,30,2,7,0.3,NoMaterial
+2025-05-27 오전 9:27:28,100,2,8,1,NoMaterial
+2025-05-27 오전 9:27:29,100,3,9,1,NoMaterial
+2025-05-27 오전 9:27:31,30,3,10,0.3,NoMaterial
+2025-05-27 오전 9:27:32,30,4,11,0.3,NoMaterial
+2025-05-27 오전 9:27:33,100,4,12,1,NoMaterial
+2025-05-27 오전 9:27:34,30,5,13,0.3,NoMaterial
+2025-05-27 오전 9:27:36,50,2,14,0.5,NoMaterial
+2025-05-27 오전 9:27:36,50,3,15,0.5,NoMaterial
+2025-05-27 오전 9:27:38,30,6,16,0.3,NoMaterial
+2025-05-27 오전 9:27:40,100,5,17,1,NoMaterial
+2025-05-27 오전 9:27:40,100,6,18,1,NoMaterial
+2025-05-27 오전 9:27:41,50,4,19,0.5,NoMaterial
+2025-05-27 오전 9:27:46,10,3,20,0.1,NoMaterial
+2025-05-27 오전 9:27:49,100,7,21,1,NoMaterial
+2025-05-27 오전 9:27:51,50,5,22,0.5,NoMaterial
+2025-05-27 오전 9:27:52,100,8,23,1,NoMaterial
+2025-05-27 오전 9:27:53,100,9,24,1,NoMaterial
+2025-05-27 오전 9:27:53,100,10,25,1,NoMaterial
+2025-05-27 오전 9:27:54,50,6,26,0.5,NoMaterial
+2025-05-27 오전 9:27:56,50,7,27,0.5,NoMaterial
+2025-05-27 오전 9:27:58,50,8,28,0.5,NoMaterial
+2025-05-27 오전 9:27:59,100,11,29,1,NoMaterial
+2025-05-27 오전 9:28:00,100,12,30,1,NoMaterial
+2025-05-27 오전 9:28:01,50,9,31,0.5,NoMaterial
+2025-05-27 오전 9:28:01,50,10,32,0.5,NoMaterial
+2025-05-27 오전 9:28:02,100,13,33,1,NoMaterial
+2025-05-27 오전 9:28:04,30,7,34,0.3,NoMaterial
+2025-05-27 오전 9:28:05,30,8,35,0.3,NoMaterial
+2025-05-27 오전 9:28:07,50,11,36,0.5,NoMaterial
+2025-05-27 오전 9:28:07,50,12,37,0.5,NoMaterial
+2025-05-27 오전 9:28:09,50,13,38,0.5,NoMaterial
+2025-05-27 오전 9:28:09,50,14,39,0.5,NoMaterial
+2025-05-27 오전 9:28:11,100,14,40,1,NoMaterial
+2025-05-27 오전 9:28:13,100,15,41,1,NoMaterial
+2025-05-27 오전 9:28:13,100,16,42,1,NoMaterial
+2025-05-27 오전 9:28:45,BaseBall,1,1,0.5,Material
+2025-05-27 오전 9:28:48,bouncy ball,1,2,0.3,Material
+2025-05-27 오전 9:28:49,bouncy ball,2,3,0.3,Material
+2025-05-27 오전 9:28:49,bouncy ball,3,4,0.3,Material
+2025-05-27 오전 9:28:51,Sponge ball,1,5,0.1,Material
+2025-05-27 오전 9:28:53,BaseBall,2,6,0.5,Material
+2025-05-27 오전 9:28:57,Steal ball,1,7,1,Material
+2025-05-27 오전 9:28:58,Fur ball,1,8,0,Material
+2025-05-27 오전 9:29:01,Sponge ball,2,9,0.1,Material
+2025-05-27 오전 9:29:02,Sponge ball,3,10,0.1,Material
+2025-05-27 오전 9:29:04,Steal ball,2,11,1,Material
+2025-05-27 오전 9:29:05,bouncy ball,4,12,0.3,Material
+2025-05-27 오전 9:29:07,BaseBall,3,13,0.5,Material
+2025-05-27 오전 9:29:09,Steal ball,3,14,1,Material
+2025-05-27 오전 9:29:11,BaseBall,4,15,0.5,Material
+2025-05-27 오전 9:29:14,Sponge ball,4,16,0.1,Material
+2025-05-27 오전 9:29:19,Sponge ball,5,17,0.1,Material
+2025-05-27 오전 9:29:21,BaseBall,5,18,0.5,Material
+2025-05-27 오전 9:29:22,Steal ball,4,19,1,Material
+2025-05-27 오전 9:29:23,bouncy ball,5,20,0.3,Material
+2025-05-27 오전 9:29:25,BaseBall,6,21,0.5,Material
+2025-05-27 오전 9:29:27,Sponge ball,6,22,0.1,Material
+2025-05-27 오전 9:29:28,bouncy ball,6,23,0.3,Material
+2025-05-27 오전 9:29:29,Steal ball,5,24,1,Material
+2025-05-27 오전 9:29:32,Steal ball,6,25,1,Material
+2025-05-27 오전 9:29:34,bouncy ball,7,26,0.3,Material
+2025-05-27 오전 9:29:35,Sponge ball,7,27,0.1,Material
+2025-05-27 오전 9:29:37,BaseBall,7,28,0.5,Material
+2025-05-27 오전 9:29:39,Sponge ball,8,29,0.1,Material
+2025-05-27 오전 9:29:41,BaseBall,8,30,0.5,Material
+2025-05-27 오전 9:29:42,Sponge ball,9,31,0.1,Material
+2025-05-27 오전 9:30:22,100,1,1,1,NoMaterial
+2025-05-27 오전 9:30:24,0,1,2,0,NoMaterial
+2025-05-27 오전 9:30:26,10,1,3,0.1,NoMaterial
+2025-05-27 오전 9:30:27,50,1,4,0.5,NoMaterial
+2025-05-27 오전 9:30:30,30,1,5,0.3,NoMaterial
+2025-05-27 오전 9:30:31,30,2,6,0.3,NoMaterial
+2025-05-27 오전 9:30:32,50,2,7,0.5,NoMaterial
+2025-05-27 오전 9:30:34,10,2,8,0.1,NoMaterial
+2025-05-27 오전 9:30:38,0,2,9,0,NoMaterial
+2025-05-27 오전 9:30:41,0,3,10,0,NoMaterial
+2025-05-27 오전 9:30:43,30,3,11,0.3,NoMaterial
+2025-05-27 오전 9:30:45,50,3,12,0.5,NoMaterial
+2025-05-27 오전 9:30:47,50,4,13,0.5,NoMaterial
+2025-05-27 오전 9:30:51,10,3,14,0.1,NoMaterial
+2025-05-27 오전 9:30:54,30,4,15,0.3,NoMaterial
+2025-05-27 오전 9:30:55,50,5,16,0.5,NoMaterial
+2025-05-27 오전 9:30:56,0,4,17,0,NoMaterial
+2025-05-27 오전 9:30:59,50,6,18,0.5,NoMaterial
+2025-05-27 오전 9:31:00,10,4,19,0.1,NoMaterial
+2025-05-27 오전 9:31:01,100,2,20,1,NoMaterial
+2025-05-27 오전 9:31:02,100,3,21,1,NoMaterial
+2025-05-27 오전 9:31:04,30,5,22,0.3,NoMaterial
+2025-05-27 오전 9:31:05,100,4,23,1,NoMaterial
+2025-05-27 오전 9:31:06,30,6,24,0.3,NoMaterial
+2025-05-27 오전 9:31:07,10,5,25,0.1,NoMaterial
+2025-05-27 오전 9:31:08,10,6,26,0.1,NoMaterial
+2025-05-27 오전 9:31:09,10,7,27,0.1,NoMaterial
+2025-05-27 오전 9:31:11,100,5,28,1,NoMaterial
+2025-05-27 오전 9:31:12,30,7,29,0.3,NoMaterial
+2025-05-27 오전 9:31:14,100,6,30,1,NoMaterial
+2025-05-27 오전 9:31:15,50,7,31,0.5,NoMaterial
+2025-05-27 오전 9:31:18,30,8,32,0.3,NoMaterial
+2025-05-27 오전 9:31:20,50,8,33,0.5,NoMaterial
+2025-05-27 오전 9:31:21,50,9,34,0.5,NoMaterial
+2025-05-27 오전 9:31:22,10,8,35,0.1,NoMaterial
+2025-05-27 오전 9:31:23,100,7,36,1,NoMaterial
+2025-05-27 오전 9:31:25,0,5,37,0,NoMaterial
+2025-05-27 오전 9:31:26,50,10,38,0.5,NoMaterial
+2025-05-27 오전 9:31:27,10,9,39,0.1,NoMaterial
+2025-05-27 오전 9:31:31,50,11,40,0.5,NoMaterial
+2025-05-27 오전 9:31:31,50,12,41,0.5,NoMaterial
+2025-05-27 오전 9:31:32,10,10,42,0.1,NoMaterial
+2025-05-27 오전 9:31:33,50,13,43,0.5,NoMaterial
+2025-05-27 오전 9:31:34,50,14,44,0.5,NoMaterial
+2025-05-27 오전 9:31:35,100,8,45,1,NoMaterial
+2025-05-27 오전 9:31:53,10,1,1,0.1,NoMaterial
+2025-05-27 오전 9:31:54,30,1,2,0.3,NoMaterial
+2025-05-27 오전 9:31:55,100,1,3,1,NoMaterial
+2025-05-27 오전 9:31:56,0,1,4,0,NoMaterial
+2025-05-27 오전 9:31:58,50,1,5,0.5,NoMaterial
+2025-05-27 오전 9:31:58,0,2,6,0,NoMaterial
+2025-05-27 오전 9:32:00,10,2,7,0.1,NoMaterial
+2025-05-27 오전 9:32:02,30,2,8,0.3,NoMaterial
+2025-05-27 오전 9:32:03,30,3,9,0.3,NoMaterial
+2025-05-27 오전 9:32:04,100,2,10,1,NoMaterial
+2025-05-27 오전 9:32:04,50,2,11,0.5,NoMaterial
+2025-05-27 오전 9:32:05,30,4,12,0.3,NoMaterial
+2025-05-27 오전 9:32:07,10,3,13,0.1,NoMaterial
+2025-05-27 오전 9:32:07,100,3,14,1,NoMaterial
+2025-05-27 오전 9:32:09,50,3,15,0.5,NoMaterial
+2025-05-27 오전 9:32:10,10,4,16,0.1,NoMaterial
+2025-05-27 오전 9:32:12,100,4,17,1,NoMaterial
+2025-05-27 오전 9:32:13,30,5,18,0.3,NoMaterial
+2025-05-27 오전 9:32:14,10,5,19,0.1,NoMaterial
+2025-05-27 오전 9:32:15,0,3,20,0,NoMaterial
+2025-05-27 오전 9:32:16,10,6,21,0.1,NoMaterial
+2025-05-27 오전 9:32:19,30,6,22,0.3,NoMaterial
+2025-05-27 오전 9:32:20,100,5,23,1,NoMaterial
+2025-05-27 오전 9:32:21,50,4,24,0.5,NoMaterial
+2025-05-27 오전 9:32:22,50,5,25,0.5,NoMaterial
+2025-05-27 오전 9:32:24,10,7,26,0.1,NoMaterial
+2025-05-27 오전 9:32:25,100,6,27,1,NoMaterial
+2025-05-27 오전 9:32:26,100,7,28,1,NoMaterial
+2025-05-27 오전 9:32:27,100,8,29,1,NoMaterial
+2025-05-27 오전 9:32:28,30,7,30,0.3,NoMaterial
+2025-05-27 오전 9:32:28,30,8,31,0.3,NoMaterial
+2025-05-27 오전 9:32:28,30,9,32,0.3,NoMaterial
+2025-05-27 오전 9:32:29,30,10,33,0.3,NoMaterial
+2025-05-27 오전 9:32:32,30,11,34,0.3,NoMaterial
+2025-05-27 오전 9:32:34,30,12,35,0.3,NoMaterial
+2025-05-27 오전 9:32:38,30,13,36,0.3,NoMaterial
+2025-05-27 오전 9:32:40,100,9,37,1,NoMaterial
+2025-05-27 오전 9:32:42,30,14,38,0.3,NoMaterial
+2025-05-27 오전 9:33:05,50,1,1,0.5,NoMaterial
+2025-05-27 오전 9:33:06,30,1,2,0.3,NoMaterial
+2025-05-27 오전 9:33:07,10,1,3,0.1,NoMaterial
+2025-05-27 오전 9:33:08,0,1,4,0,NoMaterial
+2025-05-27 오전 9:33:11,10,2,5,0.1,NoMaterial
+2025-05-27 오전 9:33:12,30,2,6,0.3,NoMaterial
+2025-05-27 오전 9:33:13,50,2,7,0.5,NoMaterial
+2025-05-27 오전 9:33:14,50,3,8,0.5,NoMaterial
+2025-05-27 오전 9:33:15,100,1,9,1,NoMaterial
+2025-05-27 오전 9:33:17,30,3,10,0.3,NoMaterial
+2025-05-27 오전 9:33:18,50,4,11,0.5,NoMaterial
+2025-05-27 오전 9:33:20,30,4,12,0.3,NoMaterial
+2025-05-27 오전 9:33:20,50,5,13,0.5,NoMaterial
+2025-05-27 오전 9:33:21,30,5,14,0.3,NoMaterial
+2025-05-27 오전 9:33:23,100,2,15,1,NoMaterial
+2025-05-27 오전 9:33:24,30,6,16,0.3,NoMaterial
+2025-05-27 오전 9:33:26,100,3,17,1,NoMaterial
+2025-05-27 오전 9:33:27,30,7,18,0.3,NoMaterial
+2025-05-27 오전 9:33:28,50,6,19,0.5,NoMaterial
+2025-05-27 오전 9:33:29,100,4,20,1,NoMaterial
+2025-05-27 오전 9:33:30,30,8,21,0.3,NoMaterial
+2025-05-27 오전 9:33:32,100,5,22,1,NoMaterial
+2025-05-27 오전 9:33:33,100,6,23,1,NoMaterial
+2025-05-27 오전 9:33:35,30,9,24,0.3,NoMaterial
+2025-05-27 오전 9:33:37,50,7,25,0.5,NoMaterial
+2025-05-27 오전 9:33:57,bouncy ball,1,1,0,Confusion
+2025-05-27 오전 9:33:59,Steal ball,1,2,1,Confusion
+2025-05-27 오전 9:34:00,BaseBall,1,3,0.1,Confusion
+2025-05-27 오전 9:34:01,Fur ball,1,4,0.3,Confusion
+2025-05-27 오전 9:34:01,Fur ball,2,5,0.3,Confusion
+2025-05-27 오전 9:34:02,Sponge ball,1,6,0.5,Confusion
+2025-05-27 오전 9:34:03,Sponge ball,2,7,0.5,Confusion
+2025-05-27 오전 9:34:04,Fur ball,3,8,0.3,Confusion
+2025-05-27 오전 9:34:04,Fur ball,4,9,0.3,Confusion
+2025-05-27 오전 9:34:06,BaseBall,2,10,0.1,Confusion
+2025-05-27 오전 9:34:08,Steal ball,2,11,1,Confusion
+2025-05-27 오전 9:34:09,BaseBall,3,12,0.1,Confusion
+2025-05-27 오전 9:34:11,Steal ball,3,13,1,Confusion
+2025-05-27 오전 9:34:12,bouncy ball,2,14,0,Confusion
+2025-05-27 오전 9:34:14,BaseBall,4,15,0.1,Confusion
+2025-05-27 오전 9:34:15,BaseBall,5,16,0.1,Confusion
+2025-05-27 오전 9:34:16,Fur ball,5,17,0.3,Confusion
+2025-05-27 오전 9:34:17,Fur ball,6,18,0.3,Confusion
+2025-05-27 오전 9:34:17,Fur ball,7,19,0.3,Confusion
+2025-05-27 오전 9:34:19,Fur ball,8,20,0.3,Confusion
+2025-05-27 오전 9:34:20,Steal ball,4,21,1,Confusion
+2025-05-27 오전 9:34:21,BaseBall,6,22,0.1,Confusion
+2025-05-27 오전 9:34:23,Fur ball,9,23,0.3,Confusion
+2025-05-27 오전 9:34:24,Sponge ball,3,24,0.5,Confusion
+2025-05-27 오전 9:34:24,Sponge ball,4,25,0.5,Confusion
+2025-05-27 오전 9:34:26,Sponge ball,5,26,0.5,Confusion
+2025-05-27 오전 9:34:26,Sponge ball,6,27,0.5,Confusion
+2025-05-27 오전 9:34:27,Fur ball,10,28,0.3,Confusion
+2025-05-27 오전 9:34:28,Fur ball,11,29,0.3,Confusion
+2025-05-27 오전 9:34:28,Steal ball,5,30,1,Confusion
+2025-05-27 오전 9:34:29,Steal ball,6,31,1,Confusion
+2025-05-27 오전 9:34:30,Sponge ball,7,32,0.5,Confusion
+2025-05-27 오전 9:34:31,Sponge ball,8,33,0.5,Confusion
+2025-05-27 오전 9:34:31,Sponge ball,9,34,0.5,Confusion
+2025-05-27 오전 9:34:33,Sponge ball,10,35,0.5,Confusion
+2025-05-27 오전 9:34:35,Steal ball,7,36,1,Confusion
+2025-05-27 오전 9:34:36,Fur ball,12,37,0.3,Confusion
+2025-05-27 오전 9:34:38,Steal ball,8,38,1,Confusion
+2025-05-27 오전 9:35:46,bouncy ball,1,1,0.3,Material
+2025-05-27 오전 9:35:48,BaseBall,1,2,0.5,Material
+2025-05-27 오전 9:35:49,BaseBall,2,3,0.5,Material
+2025-05-27 오전 9:35:50,Steal ball,1,4,1,Material
+2025-05-27 오전 9:35:51,Fur ball,1,5,0,Material
+2025-05-27 오전 9:35:53,Sponge ball,1,6,0.1,Material
+2025-05-27 오전 9:35:53,Sponge ball,2,7,0.1,Material
+2025-05-27 오전 9:35:55,Fur ball,2,8,0,Material
+2025-05-27 오전 9:35:56,BaseBall,3,9,0.5,Material
+2025-05-27 오전 9:35:58,bouncy ball,2,10,0.3,Material
+2025-05-27 오전 9:35:58,bouncy ball,3,11,0.3,Material
+2025-05-27 오전 9:36:01,Steal ball,2,12,1,Material
+2025-05-27 오전 9:36:02,Sponge ball,3,13,0.1,Material
+2025-05-27 오전 9:36:02,Sponge ball,4,14,0.1,Material
+2025-05-27 오전 9:36:03,Sponge ball,5,15,0.1,Material
+2025-05-27 오전 9:36:05,Sponge ball,6,16,0.1,Material
+2025-05-27 오전 9:36:06,bouncy ball,4,17,0.3,Material
+2025-05-27 오전 9:36:08,BaseBall,4,18,0.5,Material
+2025-05-27 오전 9:36:10,Steal ball,3,19,1,Material
+2025-05-27 오전 9:36:12,BaseBall,5,20,0.5,Material
+2025-05-27 오전 9:36:13,Steal ball,4,21,1,Material
+2025-05-27 오전 9:36:13,Steal ball,5,22,1,Material
+2025-05-27 오전 9:36:15,BaseBall,6,23,0.5,Material
+2025-05-27 오전 9:36:16,Steal ball,6,24,1,Material
+2025-05-27 오전 9:36:18,bouncy ball,5,25,0.3,Material
+2025-05-27 오전 9:36:19,BaseBall,7,26,0.5,Material
+2025-05-27 오전 9:36:20,Sponge ball,7,27,0.1,Material
+2025-05-27 오전 9:36:22,BaseBall,8,28,0.5,Material
+2025-05-27 오전 9:36:24,Sponge ball,8,29,0.1,Material
+2025-05-27 오전 9:36:25,bouncy ball,6,30,0.3,Material
+2025-05-27 오전 9:36:27,Sponge ball,9,31,0.1,Material
+2025-05-27 오전 9:36:28,bouncy ball,7,32,0.3,Material
+2025-05-27 오전 9:36:31,bouncy ball,8,33,0.3,Material
+2025-05-27 오전 9:36:32,Sponge ball,10,34,0.1,Material
+2025-05-27 오전 9:36:33,bouncy ball,9,35,0.3,Material
+2025-05-27 오전 9:37:31,BaseBall,1,1,0.3,Confusion
+2025-05-27 오전 9:37:32,bouncy ball,1,2,1,Confusion
+2025-05-27 오전 9:37:34,Steal ball,1,3,0.1,Confusion
+2025-05-27 오전 9:37:35,Fur ball,1,4,0,Confusion
+2025-05-27 오전 9:37:36,Sponge ball,1,5,0.5,Confusion
+2025-05-27 오전 9:37:37,Fur ball,2,6,0,Confusion
+2025-05-27 오전 9:37:39,Sponge ball,2,7,0.5,Confusion
+2025-05-27 오전 9:37:40,bouncy ball,2,8,1,Confusion
+2025-05-27 오전 9:37:41,BaseBall,2,9,0.3,Confusion
+2025-05-27 오전 9:37:42,Steal ball,2,10,0.1,Confusion
+2025-05-27 오전 9:37:44,bouncy ball,3,11,1,Confusion
+2025-05-27 오전 9:37:45,bouncy ball,4,12,1,Confusion
+2025-05-27 오전 9:37:46,Sponge ball,3,13,0.5,Confusion
+2025-05-27 오전 9:37:47,Sponge ball,4,14,0.5,Confusion
+2025-05-27 오전 9:37:47,Sponge ball,5,15,0.5,Confusion
+2025-05-27 오전 9:37:48,bouncy ball,5,16,1,Confusion
+2025-05-27 오전 9:37:49,BaseBall,3,17,0.3,Confusion
+2025-05-27 오전 9:37:51,Sponge ball,6,18,0.5,Confusion
+2025-05-27 오전 9:37:52,Sponge ball,7,19,0.5,Confusion
+2025-05-27 오전 9:37:53,Sponge ball,8,20,0.5,Confusion
+2025-05-27 오전 9:37:58,Sponge ball,9,21,0.5,Confusion
+2025-05-27 오전 9:38:00,bouncy ball,6,22,1,Confusion
+2025-05-27 오전 9:38:05,bouncy ball,7,23,1,Confusion
+2025-05-27 오전 9:38:07,BaseBall,4,24,0.3,Confusion
+2025-05-27 오전 9:38:17,bouncy ball,8,25,1,Confusion
+2025-05-27 오전 9:38:18,BaseBall,5,26,0.3,Confusion
+2025-05-27 오전 9:38:19,BaseBall,6,27,0.3,Confusion
+2025-05-27 오전 9:38:21,bouncy ball,9,28,1,Confusion
+2025-05-27 오전 9:38:22,BaseBall,7,29,0.3,Confusion
+2025-05-27 오전 9:38:23,bouncy ball,10,30,1,Confusion
+2025-05-27 오전 9:38:26,BaseBall,8,31,0.3,Confusion
+2025-05-27 오전 9:39:53,bouncy ball,1,1,0,Confusion
+2025-05-27 오전 9:39:54,Sponge ball,1,2,1,Confusion
+2025-05-27 오전 9:39:55,BaseBall,1,3,0.3,Confusion
+2025-05-27 오전 9:39:56,Fur ball,1,4,0.1,Confusion
+2025-05-27 오전 9:39:57,Steal ball,1,5,0.5,Confusion
+2025-05-27 오전 9:39:59,Steal ball,2,6,0.5,Confusion
+2025-05-27 오전 9:40:00,Steal ball,3,7,0.5,Confusion
+2025-05-27 오전 9:40:01,Fur ball,2,8,0.1,Confusion
+2025-05-27 오전 9:40:01,Fur ball,3,9,0.1,Confusion
+2025-05-27 오전 9:40:02,Fur ball,4,10,0.1,Confusion
+2025-05-27 오전 9:40:03,BaseBall,2,11,0.3,Confusion
+2025-05-27 오전 9:40:03,BaseBall,3,12,0.3,Confusion
+2025-05-27 오전 9:40:03,BaseBall,4,13,0.3,Confusion
+2025-05-27 오전 9:40:04,BaseBall,5,14,0.3,Confusion
+2025-05-27 오전 9:40:05,BaseBall,6,15,0.3,Confusion
+2025-05-27 오전 9:40:06,Fur ball,5,16,0.1,Confusion
+2025-05-27 오전 9:40:07,Fur ball,6,17,0.1,Confusion
+2025-05-27 오전 9:40:09,Fur ball,7,18,0.1,Confusion
+2025-05-27 오전 9:40:11,Steal ball,4,19,0.5,Confusion
+2025-05-27 오전 9:40:14,BaseBall,7,20,0.3,Confusion
+2025-05-27 오전 9:40:17,Sponge ball,2,21,1,Confusion
+2025-05-27 오전 9:40:19,Sponge ball,3,22,1,Confusion
+2025-05-27 오전 9:40:20,Sponge ball,4,23,1,Confusion
+2025-05-27 오전 9:40:23,Fur ball,8,24,0.1,Confusion
+2025-05-27 오전 9:40:23,Fur ball,9,25,0.1,Confusion
+2025-05-27 오전 9:40:24,Fur ball,10,26,0.1,Confusion
+2025-05-27 오전 9:40:27,BaseBall,8,27,0.3,Confusion
+2025-05-27 오전 9:40:29,Sponge ball,5,28,1,Confusion
+2025-05-27 오전 9:40:31,bouncy ball,2,29,0,Confusion
+2025-05-27 오전 9:40:33,bouncy ball,3,30,0,Confusion
+2025-05-27 오전 9:40:35,Fur ball,11,31,0.1,Confusion
+2025-05-27 오전 9:40:36,bouncy ball,4,32,0,Confusion
+2025-05-27 오전 9:40:37,Fur ball,12,33,0.1,Confusion
+2025-05-27 오전 9:40:38,bouncy ball,5,34,0,Confusion
+2025-05-27 오전 9:41:09,Steal ball,1,1,0,Confusion
+2025-05-27 오전 9:41:10,bouncy ball,1,2,1,Confusion
+2025-05-27 오전 9:41:12,Sponge ball,1,3,0.1,Confusion
+2025-05-27 오전 9:41:12,Sponge ball,2,4,0.1,Confusion
+2025-05-27 오전 9:41:13,Fur ball,1,5,0.3,Confusion
+2025-05-27 오전 9:41:15,BaseBall,1,6,0.5,Confusion
+2025-05-27 오전 9:41:17,bouncy ball,2,7,1,Confusion
+2025-05-27 오전 9:41:18,Steal ball,2,8,0,Confusion
+2025-05-27 오전 9:41:19,Steal ball,3,9,0,Confusion
+2025-05-27 오전 9:41:20,Sponge ball,3,10,0.1,Confusion
+2025-05-27 오전 9:41:22,bouncy ball,3,11,1,Confusion
+2025-05-27 오전 9:41:22,Fur ball,2,12,0.3,Confusion
+2025-05-27 오전 9:41:23,BaseBall,2,13,0.5,Confusion
+2025-05-27 오전 9:41:24,Sponge ball,4,14,0.1,Confusion
+2025-05-27 오전 9:41:26,bouncy ball,4,15,1,Confusion
+2025-05-27 오전 9:41:27,Fur ball,3,16,0.3,Confusion
+2025-05-27 오전 9:41:32,BaseBall,3,17,0.5,Confusion
+2025-05-27 오전 9:41:33,bouncy ball,5,18,1,Confusion
+2025-05-27 오전 9:41:34,Fur ball,4,19,0.3,Confusion
+2025-05-27 오전 9:41:36,BaseBall,4,20,0.5,Confusion
+2025-05-27 오전 9:41:37,bouncy ball,6,21,1,Confusion
+2025-05-27 오전 9:41:38,Fur ball,5,22,0.3,Confusion
+2025-05-27 오전 9:41:41,bouncy ball,7,23,1,Confusion
+2025-05-27 오전 9:41:42,BaseBall,5,24,0.5,Confusion
+2025-05-27 오전 9:41:42,BaseBall,6,25,0.5,Confusion
+2025-05-27 오전 9:41:44,bouncy ball,8,26,1,Confusion
+2025-05-27 오전 9:42:12,bouncy ball,1,1,0.3,Material
+2025-05-27 오전 9:42:13,bouncy ball,2,2,0.3,Material
+2025-05-27 오전 9:42:14,BaseBall,1,3,0.5,Material
+2025-05-27 오전 9:42:15,Sponge ball,1,4,0.1,Material
+2025-05-27 오전 9:42:16,Fur ball,1,5,0,Material
+2025-05-27 오전 9:42:17,Steal ball,1,6,1,Material
+2025-05-27 오전 9:42:18,Fur ball,2,7,0,Material
+2025-05-27 오전 9:42:19,BaseBall,2,8,0.5,Material
+2025-05-27 오전 9:42:20,Steal ball,2,9,1,Material
+2025-05-27 오전 9:42:21,Sponge ball,2,10,0.1,Material
+2025-05-27 오전 9:42:22,Sponge ball,3,11,0.1,Material
+2025-05-27 오전 9:42:23,BaseBall,3,12,0.5,Material
+2025-05-27 오전 9:42:24,bouncy ball,3,13,0.3,Material
+2025-05-27 오전 9:42:24,bouncy ball,4,14,0.3,Material
+2025-05-27 오전 9:42:26,Steal ball,3,15,1,Material
+2025-05-27 오전 9:42:27,Sponge ball,4,16,0.1,Material
+2025-05-27 오전 9:42:28,bouncy ball,5,17,0.3,Material
+2025-05-27 오전 9:42:29,Steal ball,4,18,1,Material
+2025-05-27 오전 9:42:31,BaseBall,4,19,0.5,Material
+2025-05-27 오전 9:42:31,BaseBall,5,20,0.5,Material
+2025-05-27 오전 9:42:32,Sponge ball,5,21,0.1,Material
+2025-05-27 오전 9:42:33,bouncy ball,6,22,0.3,Material
+2025-05-27 오전 9:42:35,Steal ball,5,23,1,Material
+2025-05-27 오전 9:42:36,bouncy ball,7,24,0.3,Material
+2025-05-27 오전 9:42:38,Steal ball,6,25,1,Material
+2025-05-27 오전 9:42:38,bouncy ball,8,26,0.3,Material
+2025-05-27 오전 9:42:39,Steal ball,7,27,1,Material
+2025-05-27 오전 9:42:41,bouncy ball,9,28,0.3,Material
+2025-05-27 오전 9:43:16,0,1,1,0,NoMaterial
+2025-05-27 오전 9:43:17,10,1,2,0.1,NoMaterial
+2025-05-27 오전 9:43:18,30,1,3,0.3,NoMaterial
+2025-05-27 오전 9:43:19,50,1,4,0.5,NoMaterial
+2025-05-27 오전 9:43:20,50,2,5,0.5,NoMaterial
+2025-05-27 오전 9:43:20,50,3,6,0.5,NoMaterial
+2025-05-27 오전 9:43:21,100,1,7,1,NoMaterial
+2025-05-27 오전 9:43:22,50,4,8,0.5,NoMaterial
+2025-05-27 오전 9:43:23,50,5,9,0.5,NoMaterial
+2025-05-27 오전 9:43:24,30,2,10,0.3,NoMaterial
+2025-05-27 오전 9:43:25,10,2,11,0.1,NoMaterial
+2025-05-27 오전 9:43:26,0,2,12,0,NoMaterial
+2025-05-27 오전 9:43:28,10,3,13,0.1,NoMaterial
+2025-05-27 오전 9:43:29,30,3,14,0.3,NoMaterial
+2025-05-27 오전 9:43:30,50,6,15,0.5,NoMaterial
+2025-05-27 오전 9:43:32,50,7,16,0.5,NoMaterial
+2025-05-27 오전 9:43:33,100,2,17,1,NoMaterial
+2025-05-27 오전 9:43:35,50,8,18,0.5,NoMaterial
+2025-05-27 오전 9:43:35,30,4,19,0.3,NoMaterial
+2025-05-27 오전 9:43:36,10,4,20,0.1,NoMaterial
+2025-05-27 오전 9:43:37,10,5,21,0.1,NoMaterial
+2025-05-27 오전 9:43:37,10,6,22,0.1,NoMaterial
+2025-05-27 오전 9:43:39,30,5,23,0.3,NoMaterial
+2025-05-27 오전 9:43:40,30,6,24,0.3,NoMaterial
+2025-05-27 오전 9:43:41,100,3,25,1,NoMaterial
+2025-05-27 오전 9:43:43,30,7,26,0.3,NoMaterial
+2025-05-27 오전 9:43:44,50,9,27,0.5,NoMaterial
+2025-05-27 오전 9:43:44,50,10,28,0.5,NoMaterial
+2025-05-27 오전 9:43:45,50,11,29,0.5,NoMaterial
+2025-05-27 오전 9:43:46,100,4,30,1,NoMaterial
+2025-05-27 오전 9:43:47,100,5,31,1,NoMaterial
+2025-05-27 오전 9:43:47,10,7,32,0.1,NoMaterial
+2025-05-27 오전 9:43:48,0,3,33,0,NoMaterial
+2025-05-27 오전 9:43:49,30,8,34,0.3,NoMaterial
+2025-05-27 오전 9:44:10,Steal ball,1,1,1,Material
+2025-05-27 오전 9:44:11,Fur ball,1,2,0,Material
+2025-05-27 오전 9:44:14,BaseBall,1,3,0.5,Material
+2025-05-27 오전 9:44:14,BaseBall,2,4,0.5,Material
+2025-05-27 오전 9:44:15,BaseBall,3,5,0.5,Material
+2025-05-27 오전 9:44:17,BaseBall,4,6,0.5,Material
+2025-05-27 오전 9:44:18,BaseBall,5,7,0.5,Material
+2025-05-27 오전 9:44:19,BaseBall,6,8,0.5,Material
+2025-05-27 오전 9:44:20,Sponge ball,1,9,0.1,Material
+2025-05-27 오전 9:44:20,Sponge ball,2,10,0.1,Material
+2025-05-27 오전 9:44:21,bouncy ball,1,11,0.3,Material
+2025-05-27 오전 9:44:23,Sponge ball,3,12,0.1,Material
+2025-05-27 오전 9:44:24,Sponge ball,4,13,0.1,Material
+2025-05-27 오전 9:44:26,BaseBall,7,14,0.5,Material
+2025-05-27 오전 9:44:27,Fur ball,2,15,0,Material
+2025-05-27 오전 9:44:29,Steal ball,2,16,1,Material
+2025-05-27 오전 9:44:32,Sponge ball,5,17,0.1,Material
+2025-05-27 오전 9:44:33,Fur ball,3,18,0,Material
+2025-05-27 오전 9:44:34,BaseBall,8,19,0.5,Material
+2025-05-27 오전 9:44:35,Fur ball,4,20,0,Material
+2025-05-27 오전 9:44:36,bouncy ball,2,21,0.3,Material
+2025-05-27 오전 9:44:37,BaseBall,9,22,0.5,Material
+2025-05-27 오전 9:44:39,Sponge ball,6,23,0.1,Material
+2025-05-27 오전 9:44:40,BaseBall,10,24,0.5,Material
+2025-05-27 오전 9:45:10,bouncy ball,1,1,0.3,Material
+2025-05-27 오전 9:45:11,Fur ball,1,2,0,Material
+2025-05-27 오전 9:45:12,Steal ball,1,3,1,Material
+2025-05-27 오전 9:45:13,Sponge ball,1,4,0.1,Material
+2025-05-27 오전 9:45:14,BaseBall,1,5,0.5,Material
+2025-05-27 오전 9:45:15,Fur ball,2,6,0,Material
+2025-05-27 오전 9:45:17,BaseBall,2,7,0.5,Material
+2025-05-27 오전 9:45:18,Sponge ball,2,8,0.1,Material
+2025-05-27 오전 9:45:19,Steal ball,2,9,1,Material
+2025-05-27 오전 9:45:21,bouncy ball,2,10,0.3,Material
+2025-05-27 오전 9:45:23,Steal ball,3,11,1,Material
+2025-05-27 오전 9:45:23,BaseBall,3,12,0.5,Material
+2025-05-27 오전 9:45:24,Sponge ball,3,13,0.1,Material
+2025-05-27 오전 9:45:25,BaseBall,4,14,0.5,Material
+2025-05-27 오전 9:45:26,Steal ball,4,15,1,Material
+2025-05-27 오전 9:45:27,Steal ball,5,16,1,Material
+2025-05-27 오전 9:45:28,bouncy ball,3,17,0.3,Material
+2025-05-27 오전 9:45:28,bouncy ball,4,18,0.3,Material
+2025-05-27 오전 9:45:29,Steal ball,6,19,1,Material
+2025-05-27 오전 9:45:30,Steal ball,7,20,1,Material
+2025-05-27 오전 9:45:31,BaseBall,5,21,0.5,Material
+2025-05-27 오전 9:45:33,BaseBall,6,22,0.5,Material
+2025-05-27 오전 9:45:34,BaseBall,7,23,0.5,Material
+2025-05-27 오전 9:45:36,Sponge ball,4,24,0.1,Material
+2025-05-27 오전 9:45:38,bouncy ball,5,25,0.3,Material
+2025-05-27 오전 9:45:43,Steal ball,8,26,1,Material
+2025-05-27 오전 9:45:45,BaseBall,8,27,0.5,Material
+2025-05-27 오전 9:45:46,Sponge ball,5,28,0.1,Material
+2025-05-27 오전 9:45:47,bouncy ball,6,29,0.3,Material
+2025-05-27 오전 9:45:49,Sponge ball,6,30,0.1,Material
+2025-05-27 오전 9:45:50,Steal ball,9,31,1,Material
+2025-05-27 오전 9:45:51,BaseBall,9,32,0.5,Material
+2025-05-27 오전 9:45:53,bouncy ball,7,33,0.3,Material
+2025-05-27 오전 9:45:56,Steal ball,10,34,1,Material
+2025-05-27 오전 9:45:58,Sponge ball,7,35,0.1,Material
+2025-05-27 오전 9:45:59,Sponge ball,8,36,0.1,Material
+2025-05-27 오전 9:46:00,BaseBall,10,37,0.5,Material
+2025-05-27 오전 9:46:02,Sponge ball,9,38,0.1,Material

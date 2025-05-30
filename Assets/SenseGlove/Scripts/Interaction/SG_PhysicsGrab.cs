@@ -53,8 +53,6 @@ namespace SG
             hoverScripts[3] = palmTouch;
         }
 
-        private int grabCount = 0;
-
         protected override void CollectDebugComponents(out List<GameObject> objects, out List<MeshRenderer> renderers)
         {
             base.CollectDebugComponents(out objects, out renderers);
